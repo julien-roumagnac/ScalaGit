@@ -1,9 +1,4 @@
-#SGIT
-## Git local  CLI with scala and Functionnal programming
-
-## HEAD
-
-#SGIT
+# SGIT
 ## Git local  CLI with scala and Functionnal programming
 
 
